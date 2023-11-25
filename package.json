@@ -1,0 +1,19 @@
+{
+  "name": "projeto-node-hamburgueria",
+  "version": "1.0.0",
+  "description": "projeto node para hamburgueria, prática da aula de node DevClub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "Guilherme Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
